@@ -1,1 +1,1 @@
-# Twitter_clone
+Twitter Clone using Next js 13.
